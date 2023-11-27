@@ -4418,6 +4418,28 @@
 					"link": "https://riverside.fm/about"
 				}
 			]
+		},
+		{
+			"id": 196,
+			"name": "Valens Semiconductor",
+			"description": "connectivity company ",
+			"logo": "./logo/",
+			"category": "Semiconductors",
+			"alternatives": [
+				{
+					"name": "",
+					"description": "",
+					"link": "",
+					"logo": "./logo/",
+					"notes": ""
+				}
+			],
+			"resources": [
+				{
+					"name": "HQ location at the website",
+					"link": "https://www.valens.com/contact-us"
+				}
+			]
 		}
 	]
 }
